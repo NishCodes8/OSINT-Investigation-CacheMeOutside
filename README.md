@@ -7,7 +7,7 @@ A multi-phase Open-Source Intelligence (OSINT) investigation into a simulated ta
 
 ---
 
-## 🛠️ Tools & Methodologies Used
+# Tools & Methodologies Used
 * **Passive OSINT:** Platform cross-referencing, digital footprint analysis.
 * **Metadata & Git Analysis:** Exposed commit history parsing (`.patch` formatting).
 * **Active OSINT:** Interactive communication with target infrastructure.
